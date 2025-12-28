@@ -1,4 +1,4 @@
-# ReDisCa
+# ReDisCa - Record, Distort by Camera
 Simple program, which makes distort your camera image in real time by elementary functions, which you enter in the special field bellow your camera image. And save your distort image in photo and video formats!
 
 <img width="1251" height="915" alt="{7AA83D6A-D15D-48CC-AC1D-89EBC74FA3B5}" src="https://github.com/user-attachments/assets/da4c89e8-fbcd-46d4-84bb-cb728493508d" />
@@ -15,8 +15,12 @@ This program is written mainly by AI (DeepSeek) so there's problems.
  - Recordings saves are divided by video and audio apart
  - There's some formulas combination problems which cause the error window. In this case you should press "Clear Formula" and enter the another (working) one.
  - Undone interface
-### Fate of program
+   
+## Fate of program
 I'm not so good at coding, so I pass this program in your hands to fork it. The project will not be uptaded and it'll be archived. 
+
+## Releases
+You can download ReDisCa in [Releases](https://github.com/MichaelDeMire/ReDisCa/releases)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MichaelDeMire/camera-image-distortion/blob/main/LICENSE) file for details.
